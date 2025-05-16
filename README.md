@@ -1,6 +1,6 @@
 **🌦️ Weather Forecast Web App**
 
-This is a simple and interactive Weather Forecast Web Application built using HTML, CSS, and JavaScript, which fetches real-time weather data using the OpenWeatherMap API.
+This is a simple and interactive Weather Forecast Web Application built using HTML, CSS, and JavaScript, which fetches real-time weather data using the OpenWeather API.
 
 
 **🔍 Features**
